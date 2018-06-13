@@ -6,7 +6,7 @@ You'll probably want to clone the repo, and then change your LHOST/LPORT before 
 
 ## Usage
 
-There are a couple of ways to install/run the code:
+There are a couple of ways to install/run the code from the shell:
 
 ### Direct from Git repo:
 `pip install git+https://github.com/ben0/PyMeterpreter`
